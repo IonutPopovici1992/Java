@@ -1,5 +1,6 @@
 package com.john;
 
+/// Comments
 public class Comments {
     // Single-line Comments
     /*

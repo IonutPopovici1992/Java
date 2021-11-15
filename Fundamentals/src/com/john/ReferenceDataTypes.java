@@ -1,5 +1,3 @@
 package com.john;
 
-public class ReferenceDataTypes {
-
-}
+public class ReferenceDataTypes {}

@@ -1,4 +1,3 @@
 package com.john;
 
-public class LogicalOperators {
-}
+public class LogicalOperators {}

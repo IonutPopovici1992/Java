@@ -5,7 +5,6 @@ public class EnhancedForLoop {
 
     public static void main(String[] args) {
         // Enhanced For Loop
-
     }
 
 }

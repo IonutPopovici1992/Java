@@ -1,4 +1,3 @@
 package com.john;
 
-public class EnhancedForLoop2 {
-}
+public class EnhancedForLoop2 {}

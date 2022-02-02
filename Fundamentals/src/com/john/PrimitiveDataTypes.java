@@ -9,9 +9,9 @@ public class PrimitiveDataTypes {
         // byte; 1 byte; Stores whole numbers from -128 to 127.
         byte theByte = -128;
         // short; 2 bytes; Stores whole numbers from -32,768 to 32,767.
-        short theShort = -32768;
+        short theShort = -32_768;
         // int; 4 bytes; Stores whole numbers from -2,147,483,648 to 2,147,483,647.
-        int theInt = -2147483648;
+        int theInt = -2_147_483_648;
         // long; 8 bytes; Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
         long theLong = 123456789L;
 
